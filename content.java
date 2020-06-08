@@ -1,5 +1,5 @@
-public class Cnkoyn {
+public class Cnwhvl {
     public static void main() {
-        System.out.println("kmsgv");
+        System.out.println("kkuyh");
     }
 }
