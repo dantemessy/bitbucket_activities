@@ -1,5 +1,5 @@
-public class Cnwhvl {
+public class Chxgel {
     public static void main() {
-        System.out.println("kkuyh");
+        System.out.println("svoby");
     }
 }
