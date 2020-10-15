@@ -1,1 +1,1 @@
-SELECT * from cgiib;
+SELECT * from npbwk;
