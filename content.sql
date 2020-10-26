@@ -1,1 +1,1 @@
-SELECT * from npbwk;
+SELECT * from pitml;
