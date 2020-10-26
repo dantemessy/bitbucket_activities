@@ -1,1 +1,1 @@
-SELECT * from foelj;
+SELECT * from pyyat;
