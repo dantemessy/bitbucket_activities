@@ -1,1 +1,1 @@
-console.log("tqjka")
+console.log("prust")
