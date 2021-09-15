@@ -1,4 +1,4 @@
 SELECT * from dadhj;
 SELECT * from gihbx;
 SELECT * from mugrd;
-SELECT * from xeaiw;
+SELECT * from oisty;
