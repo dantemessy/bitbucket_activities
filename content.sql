@@ -15,3 +15,4 @@ SELECT * from vnpbr;
 SELECT * from beson;
 SELECT * from lxvow;
 SELECT * from pwxqg;
+SELECT * from ltalc;
