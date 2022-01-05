@@ -4,4 +4,4 @@ SELECT * from mugrd;
 SELECT * from oisty;
 SELECT * from qeclg;
 SELECT * from dchcg;
-SELECT * from lxbaw;
+SELECT * from cdmdf;
