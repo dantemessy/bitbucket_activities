@@ -17,4 +17,4 @@ SELECT * from lxvow;
 SELECT * from pwxqg;
 SELECT * from ltalc;
 SELECT * from gqlvr;
-SELECT * from qqwtt;
+SELECT * from phose;
