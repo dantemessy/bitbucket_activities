@@ -6,3 +6,4 @@ SELECT * from qeclg;
 SELECT * from dchcg;
 SELECT * from cdmdf;
 SELECT * from dqsgt;
+SELECT * from fraud;
