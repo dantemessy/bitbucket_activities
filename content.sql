@@ -7,3 +7,4 @@ SELECT * from dchcg;
 SELECT * from cdmdf;
 SELECT * from dqsgt;
 SELECT * from fraud;
+SELECT * from abkle;
