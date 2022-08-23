@@ -18,3 +18,4 @@ SELECT * from pwxqg;
 SELECT * from ltalc;
 SELECT * from gqlvr;
 SELECT * from sdvuy;
+SELECT * from ipawp;
