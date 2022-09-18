@@ -19,3 +19,4 @@ SELECT * from ltalc;
 SELECT * from gqlvr;
 SELECT * from sdvuy;
 SELECT * from jpwwr;
+SELECT * from kyefe;
