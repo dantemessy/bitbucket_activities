@@ -190,7 +190,5 @@ public class Cwvbhx {
         System.out.println("yhfgy");
         System.out.println("smpux");
         System.out.println("axlwg");
-        System.out.println("lilqa");
-        System.out.println("csleh");
     }
 }
