@@ -24,3 +24,4 @@ SELECT * from uemab;
 SELECT * from dssyq;
 SELECT * from sesah;
 SELECT * from wxxdn;
+SELECT * from rikqu;
