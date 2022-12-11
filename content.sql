@@ -23,3 +23,4 @@ SELECT * from kyefe;
 SELECT * from uemab;
 SELECT * from dssyq;
 SELECT * from sesah;
+SELECT * from wxxdn;
