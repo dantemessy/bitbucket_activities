@@ -27,4 +27,4 @@ SELECT * from wxxdn;
 SELECT * from rikqu;
 SELECT * from msjyu;
 SELECT * from jfthm;
-SELECT * from galmj;
+SELECT * from dvwkh;
