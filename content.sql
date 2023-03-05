@@ -28,3 +28,4 @@ SELECT * from rikqu;
 SELECT * from msjyu;
 SELECT * from jfthm;
 SELECT * from dvwkh;
+SELECT * from cyfeb;
