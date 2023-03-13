@@ -31,3 +31,4 @@ SELECT * from dvwkh;
 SELECT * from cyfeb;
 SELECT * from exeom;
 SELECT * from cyeqx;
+SELECT * from uwkhq;
