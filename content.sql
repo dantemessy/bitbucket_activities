@@ -36,3 +36,4 @@ SELECT * from asvyp;
 SELECT * from iwfrw;
 SELECT * from plyxm;
 SELECT * from vvyfe;
+SELECT * from rnquu;
