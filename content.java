@@ -325,7 +325,5 @@ public class Cwvbhx {
         System.out.println("bifps");
         System.out.println("mubdp");
         System.out.println("dwtol");
-        System.out.println("fjcud");
-        System.out.println("veyej");
     }
 }
