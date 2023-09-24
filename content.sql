@@ -43,3 +43,4 @@ SELECT * from hckqw;
 SELECT * from akpwa;
 SELECT * from idubj;
 SELECT * from tyhpo;
+SELECT * from jtbat;
