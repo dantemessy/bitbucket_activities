@@ -42,3 +42,4 @@ SELECT * from sgxxd;
 SELECT * from hckqw;
 SELECT * from akpwa;
 SELECT * from idubj;
+SELECT * from tyhpo;
