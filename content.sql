@@ -50,3 +50,4 @@ SELECT * from vqmbr;
 SELECT * from gxooa;
 SELECT * from ercma;
 SELECT * from grxva;
+SELECT * from mxykx;
