@@ -48,3 +48,4 @@ SELECT * from wsnqy;
 SELECT * from mfeqy;
 SELECT * from vqmbr;
 SELECT * from gxooa;
+SELECT * from ercma;
