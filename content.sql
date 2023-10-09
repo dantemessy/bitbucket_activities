@@ -52,3 +52,4 @@ SELECT * from ercma;
 SELECT * from grxva;
 SELECT * from mxykx;
 SELECT * from fgdhr;
+SELECT * from fsukg;
