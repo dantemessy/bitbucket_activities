@@ -53,3 +53,4 @@ SELECT * from grxva;
 SELECT * from mxykx;
 SELECT * from fgdhr;
 SELECT * from fsukg;
+SELECT * from gdgmy;
