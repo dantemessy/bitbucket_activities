@@ -56,3 +56,4 @@ SELECT * from fsukg;
 SELECT * from gdgmy;
 SELECT * from lceuc;
 SELECT * from yyuea;
+SELECT * from sobme;
