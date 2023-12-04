@@ -62,3 +62,4 @@ SELECT * from lfeoy;
 SELECT * from dwdmh;
 SELECT * from youth;
 SELECT * from tbyqg;
+SELECT * from wuscb;
