@@ -65,3 +65,4 @@ SELECT * from tbyqg;
 SELECT * from wuscb;
 SELECT * from kxiqi;
 SELECT * from oyfdy;
+SELECT * from mboqu;
