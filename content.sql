@@ -66,4 +66,3 @@ SELECT * from wuscb;
 SELECT * from kxiqi;
 SELECT * from oyfdy;
 SELECT * from mboqu;
-SELECT * from iaxob;
