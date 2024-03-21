@@ -70,3 +70,4 @@ SELECT * from owtow;
 SELECT * from awrwb;
 SELECT * from imsew;
 SELECT * from vtqrn;
+SELECT * from wctao;
