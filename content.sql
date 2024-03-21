@@ -73,3 +73,4 @@ SELECT * from vtqrn;
 SELECT * from wctao;
 SELECT * from rphug;
 SELECT * from whdmj;
+SELECT * from lfcai;
