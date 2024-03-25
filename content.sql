@@ -75,3 +75,4 @@ SELECT * from rphug;
 SELECT * from whdmj;
 SELECT * from lfcai;
 SELECT * from jrfkh;
+SELECT * from hhcsr;
