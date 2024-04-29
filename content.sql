@@ -77,3 +77,4 @@ SELECT * from lfcai;
 SELECT * from jrfkh;
 SELECT * from hhcsr;
 SELECT * from gpwwg;
+SELECT * from fhoes;
